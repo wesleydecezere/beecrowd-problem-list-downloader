@@ -1,0 +1,51 @@
+ID,Nome,Assunto,Número de resoluções,Nível,Link
+1053,Desenho Contínuo,"Euler tour, Carteiro chinês, dfs, Floyd-Warshall",82,10,https://www.beecrowd.com.br/judge/pt/problems/view/1053
+1056,Fatores e Múltiplos,"Grafo, Grafo Bipartido Máximo",514,9,https://www.beecrowd.com.br/judge/pt/problems/view/1056
+1057,Chegando Junto,BFS,421,8,https://www.beecrowd.com.br/judge/pt/problems/view/1057
+1076,Desenhando Labirintos,"DFS, Backtracking",4.131,3,https://www.beecrowd.com.br/judge/pt/problems/view/1076
+1081,DFSr - Hierarquia de Profundidade,"DFS, backtracking",2.331,5,https://www.beecrowd.com.br/judge/pt/problems/view/1081
+1082,Componentes Conexos,"DFS, Backtracking",4.008,5,https://www.beecrowd.com.br/judge/pt/problems/view/1082
+1085,Babel,"Teoria dos Grafos, menor caminho, SSSP, Dijkstra.",825,8,https://www.beecrowd.com.br/judge/pt/problems/view/1085
+1100,Movimentos do Cavalo,"Teoria dos Grafos, Bellman-Ford ou Floyd-Warshall",2.641,5,https://www.beecrowd.com.br/judge/pt/problems/view/1100
+1111,Desrugenstein,All-Pairs Shortest Paths,583,7,https://www.beecrowd.com.br/judge/pt/problems/view/1111
+1123,Desvio de Rota,"Grafos, Dijkstra",1.720,4,https://www.beecrowd.com.br/judge/pt/problems/view/1123
+1128,Ir e Vir,"Grafos, Tarjan",2.824,4,https://www.beecrowd.com.br/judge/pt/problems/view/1128
+1135,Colônia de Formigas,Grafos,1.208,8,https://www.beecrowd.com.br/judge/pt/problems/view/1135
+1148,Países em Guerra,"Grafos, Dijkstra",4.322,5,https://www.beecrowd.com.br/judge/pt/problems/view/1148
+1152,Estradas Escuras,"Grafos, MST, Kruskal",5.118,5,https://www.beecrowd.com.br/judge/pt/problems/view/1152
+1191,Recuperação da Árvore,"Árvore binária, recursividade",2.386,5,https://www.beecrowd.com.br/judge/pt/problems/view/1191
+1194,"Prefixa, Infixa e Posfixa","Árvores binárias, pre, in, posfixa",1.780,3,https://www.beecrowd.com.br/judge/pt/problems/view/1194
+1195,Árvore Binária de Busca,"Árvores binárias de busca, percursos",4.761,5,https://www.beecrowd.com.br/judge/pt/problems/view/1195
+1200,Operações em ABP I,Árvore Binária de Busca (pesquisa),2.194,4,https://www.beecrowd.com.br/judge/pt/problems/view/1200
+1201,Operações em ABP II,Árvore Binária de Busca (pesquisa),1.289,7,https://www.beecrowd.com.br/judge/pt/problems/view/1201
+1205,Cerco a Leningrado,Grafos,783,7,https://www.beecrowd.com.br/judge/pt/problems/view/1205
+1207,Os Benefícios da Vodka,Grafos,203,9,https://www.beecrowd.com.br/judge/pt/problems/view/1207
+1208,As dinastias de São Petersburgo,"Grafos, Emparelhamento máximo",178,7,https://www.beecrowd.com.br/judge/pt/problems/view/1208
+1227,Perdido na Noite,Grafos,359,7,https://www.beecrowd.com.br/judge/pt/problems/view/1227
+1270,Fibra Óptica,"DFS, Programação Dinâmica (DP)",134,8,https://www.beecrowd.com.br/judge/pt/problems/view/1270
+1275,Light Up,Desconhecido,50,8,https://www.beecrowd.com.br/judge/pt/problems/view/1275
+1298,Corrija o Labirinto,"Busca em largura, BFS",166,5,https://www.beecrowd.com.br/judge/pt/problems/view/1298
+1302,Juntando Casais,Desconhecido,210,8,https://www.beecrowd.com.br/judge/pt/problems/view/1302
+1314,Labirintos de Cerca Viva,"Pontes, Componentes Conectados",439,8,https://www.beecrowd.com.br/judge/pt/problems/view/1314
+1317,"Eu Odeio SPAM, Mas Algumas Pessoas Amam",BFS ou DFS,349,4,https://www.beecrowd.com.br/judge/pt/problems/view/1317
+1322,Desejos das Crianças,DFS,273,9,https://www.beecrowd.com.br/judge/pt/problems/view/1322
+1328,Vá com Calma,Desconhecido,60,6,https://www.beecrowd.com.br/judge/pt/problems/view/1328
+1330,A Terra Herdada por Tio Tom,Acoplamento ou Emparelhamento Máximo,317,8,https://www.beecrowd.com.br/judge/pt/problems/view/1330
+1334,Poluição Elétrica,Grafos,56,10,https://www.beecrowd.com.br/judge/pt/problems/view/1334
+1344,Parceiros de Telecomunicação,Grafos,117,7,https://www.beecrowd.com.br/judge/pt/problems/view/1344
+1348,X-Mart,2-SAT,165,7,https://www.beecrowd.com.br/judge/pt/problems/view/1348
+1362,Minha Camiseta Me Serve,"Emparelhamento Bipartido, Fluxo Máximo",1.238,6,https://www.beecrowd.com.br/judge/pt/problems/view/1362
+1384,Sapo Preguiçoso,Grafos,204,7,https://www.beecrowd.com.br/judge/pt/problems/view/1384
+1389,O Problema do Sapateiro Viajante,Desconhecido,75,9,https://www.beecrowd.com.br/judge/pt/problems/view/1389
+1391,Quase Menor Caminho,Desconhecido,578,7,https://www.beecrowd.com.br/judge/pt/problems/view/1391
+1394,Hooligan,Fluxo,489,8,https://www.beecrowd.com.br/judge/pt/problems/view/1394
+1402,Será Que Indiana Jones Chega Lá?,"Dijkstra modificado, segmentos, SSSP",86,8,https://www.beecrowd.com.br/judge/pt/problems/view/1402
+1409,Zak Galou,"Grafos, o problema da mochila.",324,9,https://www.beecrowd.com.br/judge/pt/problems/view/1409
+1413,Apresse-se!,Fluxo Máximo de Custo Mínimo,95,10,https://www.beecrowd.com.br/judge/pt/problems/view/1413
+1415,Galou Está de Volta!,Desconhecido,91,6,https://www.beecrowd.com.br/judge/pt/problems/view/1415
+1417,Liga da Justiça,Desconhecido,72,7,https://www.beecrowd.com.br/judge/pt/problems/view/1417
+1423,A aventura de Super Mario,"Dijkstra, Bellman-Ford",153,8,https://www.beecrowd.com.br/judge/pt/problems/view/1423
+1427,O Problema da Scrooge Co.,"Caminho Mínimo, Dijkstra, Floyd-Warshall",152,10,https://www.beecrowd.com.br/judge/pt/problems/view/1427
+1442,Desvio de Rua,"Conexidade de grafos, pontes, tarjan",442,8,https://www.beecrowd.com.br/judge/pt/problems/view/1442
+1445,Quem Vai à Festa?,Ad Hoc,481,6,https://www.beecrowd.com.br/judge/pt/problems/view/1445
+1447,Back to the Future,"Fluxo, Ford-Fulkerson Mod. Edmonds Karp",328,7,https://www.beecrowd.com.br/judge/pt/problems/view/1447

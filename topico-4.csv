@@ -1,0 +1,180 @@
+ID,Nome,Assunto,Número de resoluções,Nível,Link
+1022,TDA Racional,Números racionais,9.957,4,https://www.beecrowd.com.br/judge/pt/problems/view/1022
+1023,Estiagem,"Sort, Counting Sort, Ad Hoc",4.496,10,https://www.beecrowd.com.br/judge/pt/problems/view/1023
+1025,Onde está o Mármore?,"Busca Binária, Sort",9.453,8,https://www.beecrowd.com.br/judge/pt/problems/view/1025
+1062,Trilhos,Pilha,6.144,5,https://www.beecrowd.com.br/judge/pt/problems/view/1062
+1063,Trilhos Novamente... Traçando Movimentos,Pilha,3.159,4,https://www.beecrowd.com.br/judge/pt/problems/view/1063
+1068,Balanço de Parênteses I,Pilha,16.174,5,https://www.beecrowd.com.br/judge/pt/problems/view/1068
+1069,Diamantes e Areia,Pilha,15.398,3,https://www.beecrowd.com.br/judge/pt/problems/view/1069
+1077,Infixa para Posfixa,Pilha,3.348,5,https://www.beecrowd.com.br/judge/pt/problems/view/1077
+1083,LEXSIM - Avaliador Lexico e Sintático,Pilha,692,7,https://www.beecrowd.com.br/judge/pt/problems/view/1083
+1088,Bolhas e Baldes,"Sort, Mergesort, Contagem de Inversões",4.059,6,https://www.beecrowd.com.br/judge/pt/problems/view/1088
+1110,Jogando Cartas Fora,Fila,13.166,3,https://www.beecrowd.com.br/judge/pt/problems/view/1110
+1112,Schweisen,Fenwick Tree 2D (BIT 2D),860,9,https://www.beecrowd.com.br/judge/pt/problems/view/1112
+1119,A Fila de Desempregados,"Lista, Simulação, Ad Hoc",2.157,4,https://www.beecrowd.com.br/judge/pt/problems/view/1119
+1162,Organizador de Vagões,"Sort, Contagem de trocas, Mergesort",5.410,5,https://www.beecrowd.com.br/judge/pt/problems/view/1162
+1167,Acampamento de Férias,"Lista, Simulação, Ad Hoc, ",1.973,5,https://www.beecrowd.com.br/judge/pt/problems/view/1167
+1211,Lista Telefônica Econômica,"Estruturas, Ordenação",3.494,5,https://www.beecrowd.com.br/judge/pt/problems/view/1211
+1215,Primeiro Dicionário de Andy,"Ordenação, Arvore Binaria, Busca Infixa, String",2.461,6,https://www.beecrowd.com.br/judge/pt/problems/view/1215
+1236,Compactação de Nulos e Brancos,Compactação,688,8,https://www.beecrowd.com.br/judge/pt/problems/view/1236
+1242,Ácido Ribonucleico Alienígena,"Pilha, String",1.477,4,https://www.beecrowd.com.br/judge/pt/problems/view/1242
+1244,Ordenação por Tamanho,"Sort com Estrutura, String",8.011,4,https://www.beecrowd.com.br/judge/pt/problems/view/1244
+1251,Diga-me a Frequência,"Sort com estrutura, String, Contagem de frequência",3.249,6,https://www.beecrowd.com.br/judge/pt/problems/view/1251
+1252,Sort! Sort!! e Sort!!!,"Sort (opcional utilizando estrutura), Sort STL",2.903,7,https://www.beecrowd.com.br/judge/pt/problems/view/1252
+1256,Tabelas Hash,Hashing,5.113,3,https://www.beecrowd.com.br/judge/pt/problems/view/1256
+1258,Camisetas,Sort com estrutura,3.947,4,https://www.beecrowd.com.br/judge/pt/problems/view/1258
+1259,Pares e Ímpares,Sort,12.245,3,https://www.beecrowd.com.br/judge/pt/problems/view/1259
+1260,Espécies de Madeira,"Mapas, STL Maps",3.176,5,https://www.beecrowd.com.br/judge/pt/problems/view/1260
+1261,Pontos de Feno,"Mapas, STL Maps",2.998,2,https://www.beecrowd.com.br/judge/pt/problems/view/1261
+1274,P-Networks,Ad Hoc,167,5,https://www.beecrowd.com.br/judge/pt/problems/view/1274
+1281,Ida à Feira,"Mapas, STL Maps",7.025,3,https://www.beecrowd.com.br/judge/pt/problems/view/1281
+1301,Produto do Intervalo,Árvore de Segmentos,1.687,6,https://www.beecrowd.com.br/judge/pt/problems/view/1301
+1303,Spurs Rocks,Sort com Estrutura,1.860,9,https://www.beecrowd.com.br/judge/pt/problems/view/1303
+1326,Química,Desconhecido,324,9,https://www.beecrowd.com.br/judge/pt/problems/view/1326
+1340,Eu Posso Adivinhar a Estrutura de Dados!,"Pilha, Fila, Fila com Prioridade",4.109,2,https://www.beecrowd.com.br/judge/pt/problems/view/1340
+1356,Júpiter Ataca!,Ad Hoc,229,7,https://www.beecrowd.com.br/judge/pt/problems/view/1356
+1382,"Elementar, meu Caro Watson!",Desconhecido,961,6,https://www.beecrowd.com.br/judge/pt/problems/view/1382
+1388,Onde Estão as Bolhas?,Ordenação,231,10,https://www.beecrowd.com.br/judge/pt/problems/view/1388
+1401,Gerando Permutações Ordenadas Rapidamente,"Ordenação, Permutações (next_permutation)",1.703,4,https://www.beecrowd.com.br/judge/pt/problems/view/1401
+1405,O Problema da Parada,Desconhecido,118,10,https://www.beecrowd.com.br/judge/pt/problems/view/1405
+1424,Problema Fácil de Rujia Liu?,"Estrutura, Mapas",2.111,8,https://www.beecrowd.com.br/judge/pt/problems/view/1424
+1425,Presente?!,Fila,730,8,https://www.beecrowd.com.br/judge/pt/problems/view/1425
+1430,Composição de Jingles,"Mapas, STL Mapas",3.905,2,https://www.beecrowd.com.br/judge/pt/problems/view/1430
+1439,Bora Bora,"Implementação, Simulação",249,8,https://www.beecrowd.com.br/judge/pt/problems/view/1439
+1449,O Fantástico Jaspion,"Mapas, STL Maps",1.398,3,https://www.beecrowd.com.br/judge/pt/problems/view/1449
+1451,Teclado Quebrado,"Lista (STL List), Ad Hoc",2.355,6,https://www.beecrowd.com.br/judge/pt/problems/view/1451
+1452,Gloud Computing,"Mapas, STL Maps, Ad Hoc",733,2,https://www.beecrowd.com.br/judge/pt/problems/view/1452
+1477,"Homem, Elefante e Rato","Árvore de Segmentos, ""Lazy Prop.""",906,8,https://www.beecrowd.com.br/judge/pt/problems/view/1477
+1500,Consultas Horríveis,"Árvore de Segmentos, Lazy Propagation",1.385,8,https://www.beecrowd.com.br/judge/pt/problems/view/1500
+1507,Subsequências,Busca Binária,2.526,7,https://www.beecrowd.com.br/judge/pt/problems/view/1507
+1511,Tabuleiro GCD,Árvore de Segmentos 2D,166,10,https://www.beecrowd.com.br/judge/pt/problems/view/1511
+1520,Parafusos e Porcas,"Busca Binária, União de Intervalos",2.514,6,https://www.beecrowd.com.br/judge/pt/problems/view/1520
+1523,Estacionamento Linear,"Ad-hoc, Pilha",2.358,5,https://www.beecrowd.com.br/judge/pt/problems/view/1523
+1527,Guildas,Union-Set,1.279,6,https://www.beecrowd.com.br/judge/pt/problems/view/1527
+1535,Números Casal-Solteirão-Solteirona,String,119,10,https://www.beecrowd.com.br/judge/pt/problems/view/1535
+1538,Sequência Alienígena,String,418,5,https://www.beecrowd.com.br/judge/pt/problems/view/1538
+1548,Fila do Recreio,"Máximo, Ordenação",9.153,2,https://www.beecrowd.com.br/judge/pt/problems/view/1548
+1566,Altura,Counting Sort,4.020,8,https://www.beecrowd.com.br/judge/pt/problems/view/1566
+1587,BIT Park,Árvore de Fenwick (BIT),142,10,https://www.beecrowd.com.br/judge/pt/problems/view/1587
+1594,Guloso,-,344,7,https://www.beecrowd.com.br/judge/pt/problems/view/1594
+1633,SBC,Filas de prioridade,436,5,https://www.beecrowd.com.br/judge/pt/problems/view/1633
+1640,Reservando Hotéis,Fila,192,9,https://www.beecrowd.com.br/judge/pt/problems/view/1640
+1673,Codificação Run-length,"Ad Hoc, Compactação",457,7,https://www.beecrowd.com.br/judge/pt/problems/view/1673
+1683,Maior Retângulo em um Histograma,Pesquisa Linear usando Pilha,446,7,https://www.beecrowd.com.br/judge/pt/problems/view/1683
+1696,Brincando Com Operadores,Árvores,93,10,https://www.beecrowd.com.br/judge/pt/problems/view/1696
+1701,Sequência de Fibo,-,141,9,https://www.beecrowd.com.br/judge/pt/problems/view/1701
+1704,Arrumando as Tarefas,Sort,812,9,https://www.beecrowd.com.br/judge/pt/problems/view/1704
+1709,Baralho Embaralhado,Sort,1.851,4,https://www.beecrowd.com.br/judge/pt/problems/view/1709
+1725,Quadtree II,Árvores,23,5,https://www.beecrowd.com.br/judge/pt/problems/view/1725
+1740,Está Ordenado?,-,62,10,https://www.beecrowd.com.br/judge/pt/problems/view/1740
+1746,Dividindo os Nomes,Trie e Programacão Dinâmica,78,10,https://www.beecrowd.com.br/judge/pt/problems/view/1746
+1762,Trenós do Papai Noel,-,195,8,https://www.beecrowd.com.br/judge/pt/problems/view/1762
+1763,Tradutor do Papai Noel,Mapa,3.281,3,https://www.beecrowd.com.br/judge/pt/problems/view/1763
+1766,O Elfo das Trevas,Sort,2.237,3,https://www.beecrowd.com.br/judge/pt/problems/view/1766
+1804,Precisa-se de Matemáticos em Marte,BIT (Árvores de Fenwick),1.200,6,https://www.beecrowd.com.br/judge/pt/problems/view/1804
+1851,Como Treinar Seu Dragão,Fila de prioridade,458,6,https://www.beecrowd.com.br/judge/pt/problems/view/1851
+1854,Inverno em Winterfell,"BIT 2D, Combinatória",144,10,https://www.beecrowd.com.br/judge/pt/problems/view/1854
+1856,A Lista da Morte de Arya,"Decomposição em raiz(N)/RMQ, Lista Ligada, Compreensão",197,10,https://www.beecrowd.com.br/judge/pt/problems/view/1856
+1861,O Hall dos Assassinos,Árvore binária de busca balanceada,2.043,5,https://www.beecrowd.com.br/judge/pt/problems/view/1861
+1863,O Contra-ataque de Ramsay,"Programação Dinâmica, DFS, Árvore de Segmentos 2D",63,10,https://www.beecrowd.com.br/judge/pt/problems/view/1863
+1874,Empurrando Blocos,-,779,2,https://www.beecrowd.com.br/judge/pt/problems/view/1874
+1897,Jogo Esperto,Fila,1.077,7,https://www.beecrowd.com.br/judge/pt/problems/view/1897
+1911,Ajude Girafales,STL Mapa,2.050,4,https://www.beecrowd.com.br/judge/pt/problems/view/1911
+1944,BRINDE FACE 2015,Pilha,1.832,4,https://www.beecrowd.com.br/judge/pt/problems/view/1944
+1975,Pérolas,"STL Map, Set",304,8,https://www.beecrowd.com.br/judge/pt/problems/view/1975
+2018,Olimpíadas de Natal,"Sort, Mapas",944,4,https://www.beecrowd.com.br/judge/pt/problems/view/2018
+2020,Elfos e seus Códigos,"Sort, Mapas",175,7,https://www.beecrowd.com.br/judge/pt/problems/view/2020
+2022,Presentes de Natal,Desconhecido,548,5,https://www.beecrowd.com.br/judge/pt/problems/view/2022
+2040,O Campeão,"Ad hoc, Mapas, Strings",306,6,https://www.beecrowd.com.br/judge/pt/problems/view/2040
+2047,Fly By Night,Desconhecido,40,5,https://www.beecrowd.com.br/judge/pt/problems/view/2047
+2064,Prant e a Indecisão,Estrutura de dados,195,9,https://www.beecrowd.com.br/judge/pt/problems/view/2064
+2065,Fila do Supermercado,Fila de prioridade,1.862,4,https://www.beecrowd.com.br/judge/pt/problems/view/2065
+2067,Jogo do Quadrado,Soma de Prefixos,309,6,https://www.beecrowd.com.br/judge/pt/problems/view/2067
+2071,Banco do Faraó,Segmentation Tree,153,8,https://www.beecrowd.com.br/judge/pt/problems/view/2071
+2074,Variados Pratos da Linda Nefertiti,Desconhecido,21,5,https://www.beecrowd.com.br/judge/pt/problems/view/2074
+2075,Zé Coquinho,Desconhecido,25,5,https://www.beecrowd.com.br/judge/pt/problems/view/2075
+2077,Los buses de Cartagena,Desconhecido,39,5,https://www.beecrowd.com.br/judge/pt/problems/view/2077
+2091,Número Solitário,Bitwise,1.383,5,https://www.beecrowd.com.br/judge/pt/problems/view/2091
+2092,Assistindo o Jogo,Estruturas de Dados,63,10,https://www.beecrowd.com.br/judge/pt/problems/view/2092
+2110,Banho de Sol no Jardim,Desconhecido,33,10,https://www.beecrowd.com.br/judge/pt/problems/view/2110
+2111,Entendendo o Sorobov,Desconhecido,229,4,https://www.beecrowd.com.br/judge/pt/problems/view/2111
+2120,Tutores,Desconhecido,71,10,https://www.beecrowd.com.br/judge/pt/problems/view/2120
+2122,Votação em Ecaterimburgo,Desconhecido,62,10,https://www.beecrowd.com.br/judge/pt/problems/view/2122
+2136,Amigos do Habay,"Lista, ordenação",2.380,4,https://www.beecrowd.com.br/judge/pt/problems/view/2136
+2185,Brincando com Pomekons,Segment Tree,175,8,https://www.beecrowd.com.br/judge/pt/problems/view/2185
+2186,"Bino, Prant e a Indecisao",Estrutura de Dados,61,10,https://www.beecrowd.com.br/judge/pt/problems/view/2186
+2223,Inventário de Pomekon,Persistent BIT,149,9,https://www.beecrowd.com.br/judge/pt/problems/view/2223
+2239,Estatística Hexa,Estruturas,150,9,https://www.beecrowd.com.br/judge/pt/problems/view/2239
+2240,Fundindo Árvores,Árvore,273,7,https://www.beecrowd.com.br/judge/pt/problems/view/2240
+2241,Go--,Grafos,726,4,https://www.beecrowd.com.br/judge/pt/problems/view/2241
+2290,Números Apaixornados,Bitwise,632,10,https://www.beecrowd.com.br/judge/pt/problems/view/2290
+2338,Morse,Desconhecido,1.380,4,https://www.beecrowd.com.br/judge/pt/problems/view/2338
+2370,Times,Desconhecido,669,3,https://www.beecrowd.com.br/judge/pt/problems/view/2370
+2380,Fusões,Union Find,728,4,https://www.beecrowd.com.br/judge/pt/problems/view/2380
+2482,Etiquetas de Noel,Mapas,2.028,2,https://www.beecrowd.com.br/judge/pt/problems/view/2482
+2488,É Na Batida do Cavalo!,Desconhecido,105,5,https://www.beecrowd.com.br/judge/pt/problems/view/2488
+2492,Ilhas Isoladas,Desconhecido,381,3,https://www.beecrowd.com.br/judge/pt/problems/view/2492
+2495,Onde Está Minha Caneta?,-,477,7,https://www.beecrowd.com.br/judge/pt/problems/view/2495
+2496,A Única Chance,-,935,2,https://www.beecrowd.com.br/judge/pt/problems/view/2496
+2503,Corrida de Regularidade,-,49,9,https://www.beecrowd.com.br/judge/pt/problems/view/2503
+2506,Fila do SUS,-,277,5,https://www.beecrowd.com.br/judge/pt/problems/view/2506
+2519,Estratégia Campeã,Árvore de Fenwick 2D,123,6,https://www.beecrowd.com.br/judge/pt/problems/view/2519
+2526,Cardápio,Árvore de Fenwick,138,9,https://www.beecrowd.com.br/judge/pt/problems/view/2526
+2531,Compras em FdI,Árvore de Segmentos,664,8,https://www.beecrowd.com.br/judge/pt/problems/view/2531
+2537,GigaDrive,Árvore de Fenwick 2D,147,7,https://www.beecrowd.com.br/judge/pt/problems/view/2537
+2538,Ginásio,Árvore de Fenwick,231,9,https://www.beecrowd.com.br/judge/pt/problems/view/2538
+2539,High Five,"Fenwick, MergeSort",307,8,https://www.beecrowd.com.br/judge/pt/problems/view/2539
+2546,Mesada,Árvore de Segmentos,262,8,https://www.beecrowd.com.br/judge/pt/problems/view/2546
+2559,Sexta-Feira 13,Árvore de Segmentos,64,10,https://www.beecrowd.com.br/judge/pt/problems/view/2559
+2560,Surf Aquático,Fila de Prioridade,399,9,https://www.beecrowd.com.br/judge/pt/problems/view/2560
+2593,Eachianos I,Busca em texto,853,5,https://www.beecrowd.com.br/judge/pt/problems/view/2593
+2594,Eachianos II,Busca em texto,1.082,3,https://www.beecrowd.com.br/judge/pt/problems/view/2594
+2633,Churras no Yuri,"Struct, Sort",2.152,2,https://www.beecrowd.com.br/judge/pt/problems/view/2633
+2654,Godofor,"Sort, Struct",943,5,https://www.beecrowd.com.br/judge/pt/problems/view/2654
+2655,Trilha Perigosa,"Bit,Segment Tree",467,8,https://www.beecrowd.com.br/judge/pt/problems/view/2655
+2656,Rhombus,"Bit,Segment Tree",63,10,https://www.beecrowd.com.br/judge/pt/problems/view/2656
+2658,Acordes Intergaláticos,-,574,9,https://www.beecrowd.com.br/judge/pt/problems/view/2658
+2671,Decodificando o Texto,-,88,9,https://www.beecrowd.com.br/judge/pt/problems/view/2671
+2693,Van,Sort Com Estrutura,1.799,3,https://www.beecrowd.com.br/judge/pt/problems/view/2693
+2698,Dispositivo Assombrado,-,128,10,https://www.beecrowd.com.br/judge/pt/problems/view/2698
+2700,Angariando Fundos,-,245,7,https://www.beecrowd.com.br/judge/pt/problems/view/2700
+2720,Presentes Grandes,Ordenação,649,7,https://www.beecrowd.com.br/judge/pt/problems/view/2720
+2729,Lista de Compras,Mapa,2.616,4,https://www.beecrowd.com.br/judge/pt/problems/view/2729
+2734,Trocando Presentes,DP,318,10,https://www.beecrowd.com.br/judge/pt/problems/view/2734
+2792,Golnaldinho,Desconhecido,343,8,https://www.beecrowd.com.br/judge/pt/problems/view/2792
+2800,Brincando de Consultas,Decomposição em Raiz,163,9,https://www.beecrowd.com.br/judge/pt/problems/view/2800
+2805,Binarizando a Matriz,Programação Dinâmica,44,5,https://www.beecrowd.com.br/judge/pt/problems/view/2805
+2821,Distribuição de Cartas,"Mapas, Busca Binaria não Convencional",19,5,https://www.beecrowd.com.br/judge/pt/problems/view/2821
+2848,Rangel e o Jogo do Vetor I,Desconhecido,298,6,https://www.beecrowd.com.br/judge/pt/problems/view/2848
+2849,Rangel e o Jogo do Vetor II,Desconhecido,172,10,https://www.beecrowd.com.br/judge/pt/problems/view/2849
+2855,Números de Sorte,-,440,7,https://www.beecrowd.com.br/judge/pt/problems/view/2855
+2857,Fluxo nos Vagões,-,189,7,https://www.beecrowd.com.br/judge/pt/problems/view/2857
+2860,A Paz em Spar-Ta,-,22,5,https://www.beecrowd.com.br/judge/pt/problems/view/2860
+2872,Protocolo TCP/IP,Desconhecido,413,7,https://www.beecrowd.com.br/judge/pt/problems/view/2872
+2889,O Tasco é Sempre Vice!,Tabela de Acesso Direto,109,9,https://www.beecrowd.com.br/judge/pt/problems/view/2889
+2893,Fibonac^{k}i,Fila,268,6,https://www.beecrowd.com.br/judge/pt/problems/view/2893
+2916,A Nota,Ordenação,554,9,https://www.beecrowd.com.br/judge/pt/problems/view/2916
+2929,Menor da Pilha,Desconhecido,1.128,8,https://www.beecrowd.com.br/judge/pt/problems/view/2929
+2952,A Vida Sustentável,Desconhecido,82,9,https://www.beecrowd.com.br/judge/pt/problems/view/2952
+2958,O Rolê Bad Vibes,Desconhecido,543,2,https://www.beecrowd.com.br/judge/pt/problems/view/2958
+2961,"Ô, Que Tanto de Filme!",Desconhecido,243,5,https://www.beecrowd.com.br/judge/pt/problems/view/2961
+2984,Assuntos Pendentes,Desconhecido,919,2,https://www.beecrowd.com.br/judge/pt/problems/view/2984
+3045,Parque Jurássico,Desconhecido,39,5,https://www.beecrowd.com.br/judge/pt/problems/view/3045
+3069,Sorvete,Desconhecido,216,6,https://www.beecrowd.com.br/judge/pt/problems/view/3069
+3097,Um Desafio Simples,Desconhecido,64,5,https://www.beecrowd.com.br/judge/pt/problems/view/3097
+3139,Buscando Novos Seguidores,Fila,320,5,https://www.beecrowd.com.br/judge/pt/problems/view/3139
+3148,O Jardim,Desconhecido,32,4,https://www.beecrowd.com.br/judge/pt/problems/view/3148
+3149,A Noiva do Trevo,Desconhecido,95,2,https://www.beecrowd.com.br/judge/pt/problems/view/3149
+3155,Sócrates e suas Perguntas,Desconhecido,9,7,https://www.beecrowd.com.br/judge/pt/problems/view/3155
+3160,Amigos,Lista,526,3,https://www.beecrowd.com.br/judge/pt/problems/view/3160
+3163,Controlador de Vôo,Fila,419,2,https://www.beecrowd.com.br/judge/pt/problems/view/3163
+3171,Cordão de Led,Desconhecido,273,1,https://www.beecrowd.com.br/judge/pt/problems/view/3171
+3176,Time de Duendes,Estruturas e Bibliotecas,253,2,https://www.beecrowd.com.br/judge/pt/problems/view/3176
+3186,Cache Introspectivo,Desconhecido,8,5,https://www.beecrowd.com.br/judge/pt/problems/view/3186
+3190,Optimal Parking,Desconhecido,57,5,https://www.beecrowd.com.br/judge/pt/problems/view/3190
+3201,Traveling Salesman,Desconhecido,1,5,https://www.beecrowd.com.br/judge/pt/problems/view/3201
+3207,Jogos Divertidos,"Dynamic programming, Memoization",1,5,https://www.beecrowd.com.br/judge/pt/problems/view/3207
+3210,O Pior Clima de Todos,Busca binária,5,5,https://www.beecrowd.com.br/judge/pt/problems/view/3210
+3239,Dirty Driving,Desconhecido,6,5,https://www.beecrowd.com.br/judge/pt/problems/view/3239
+3248,Mega Inversões,"Sort, Fenwick Trees",6,1,https://www.beecrowd.com.br/judge/pt/problems/view/3248
+3357,Rico do Mate,Desconhecido,508,1,https://www.beecrowd.com.br/judge/pt/problems/view/3357

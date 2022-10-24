@@ -1,0 +1,216 @@
+ID,Nome,Assunto,Número de resoluções,Nível,Link
+1027,Onda Crítica,DP (LIS),790,9,https://www.beecrowd.com.br/judge/pt/problems/view/1027
+1029,"Fibonacci, Quantas Chamadas?",Recursividade,14.156,4,https://www.beecrowd.com.br/judge/pt/problems/view/1029
+1033,Quantas Chamadas Recursivas?,"Relações recorrentes, números de fibonacci",977,6,https://www.beecrowd.com.br/judge/pt/problems/view/1033
+1034,Festival de Estátuas de Gelo,"PD, Gulosos",3.431,8,https://www.beecrowd.com.br/judge/pt/problems/view/1034
+1054,Sapo Dinâmico,"Algoritmos Gulosos, Sort",847,7,https://www.beecrowd.com.br/judge/pt/problems/view/1054
+1055,Soma Permutada Elegante,"Algoritmos Gulosos, Sort, Matemática Simples",823,7,https://www.beecrowd.com.br/judge/pt/problems/view/1055
+1058,Zonas de Ataque Independentes,Programação Dinâmica (DP),183,8,https://www.beecrowd.com.br/judge/pt/problems/view/1058
+1084,Apagando e Ganhando,"Greedy, Ad-Hoc",2.755,8,https://www.beecrowd.com.br/judge/pt/problems/view/1084
+1106,Dragster,"PD, Matemática, Probabilidade, Árvores, Grafos",228,7,https://www.beecrowd.com.br/judge/pt/problems/view/1106
+1166,"Torre de Hanoi, Novamente!",Programação Dinâmica,1.417,2,https://www.beecrowd.com.br/judge/pt/problems/view/1166
+1203,Pontes de São Petersburgo,Programação Dinâmica,1.288,7,https://www.beecrowd.com.br/judge/pt/problems/view/1203
+1210,Produção Ótima de Ótima Vodka,Programação Dinâmica,692,5,https://www.beecrowd.com.br/judge/pt/problems/view/1210
+1224,Cartões,DP,993,8,https://www.beecrowd.com.br/judge/pt/problems/view/1224
+1226,Elevador Espacial,Combinatória,407,8,https://www.beecrowd.com.br/judge/pt/problems/view/1226
+1229,Combate ao Câncer,Árvore,408,7,https://www.beecrowd.com.br/judge/pt/problems/view/1229
+1231,Palavras,Autômatos Finitos,195,7,https://www.beecrowd.com.br/judge/pt/problems/view/1231
+1265,DJ da Computação,Programação Dinâmica,270,6,https://www.beecrowd.com.br/judge/pt/problems/view/1265
+1269,ICPC Ataca Novamente,"Programação Dinâmica, DFS, Sort",121,7,https://www.beecrowd.com.br/judge/pt/problems/view/1269
+1282,Organizando Pacotes,"PD, DAG (Grafos acíclicos dirigidos)",257,7,https://www.beecrowd.com.br/judge/pt/problems/view/1282
+1283,Caixas e Pedras,Desconhecido,97,5,https://www.beecrowd.com.br/judge/pt/problems/view/1283
+1286,Motoboy,Algoritmo da Mochila 0-1,3.699,5,https://www.beecrowd.com.br/judge/pt/problems/view/1286
+1288,Canhão de Destruição,Algoritimo da Mochila 0-1,2.632,5,https://www.beecrowd.com.br/judge/pt/problems/view/1288
+1299,Jogo de Mosaicos,Desconhecido,109,7,https://www.beecrowd.com.br/judge/pt/problems/view/1299
+1310,Lucro,"Subsequência Máxima Contígua, PD",4.032,4,https://www.beecrowd.com.br/judge/pt/problems/view/1310
+1312,Empilhamento de Bolas,Programação Dinâmica,767,6,https://www.beecrowd.com.br/judge/pt/problems/view/1312
+1319,Garota Hiperativa,PD,159,9,https://www.beecrowd.com.br/judge/pt/problems/view/1319
+1325,Mapas Bolha,Desconhecido,125,4,https://www.beecrowd.com.br/judge/pt/problems/view/1325
+1350,Esta Sentença é Falsa,"PD, DFS",82,6,https://www.beecrowd.com.br/judge/pt/problems/view/1350
+1354,"Um Quadrado Grande, Por Favor",Backtracking,20,5,https://www.beecrowd.com.br/judge/pt/problems/view/1354
+1365,Procurando Assentos,PD,313,7,https://www.beecrowd.com.br/judge/pt/problems/view/1365
+1372,Doces,PD,571,5,https://www.beecrowd.com.br/judge/pt/problems/view/1372
+1395,Números e Operações,Backtracking,20,5,https://www.beecrowd.com.br/judge/pt/problems/view/1395
+1396,Hoje tem Prova da Cris!,"Guloso, Ordenação",219,6,https://www.beecrowd.com.br/judge/pt/problems/view/1396
+1408,Mário,PD,431,7,https://www.beecrowd.com.br/judge/pt/problems/view/1408
+1412,Cadeado com Segredo,"DP, guloso",124,9,https://www.beecrowd.com.br/judge/pt/problems/view/1412
+1416,Placar do ICPC,Desconhecido,122,9,https://www.beecrowd.com.br/judge/pt/problems/view/1416
+1432,Strings Binárias Triple-Free,"Backtracking, Bit Manipulations",141,7,https://www.beecrowd.com.br/judge/pt/problems/view/1432
+1473,Linhas de Contêiners,Desconhecido,364,7,https://www.beecrowd.com.br/judge/pt/problems/view/1473
+1474,Ônibus,"Recorrência, PD",608,7,https://www.beecrowd.com.br/judge/pt/problems/view/1474
+1475,Remendo,Programação Dinâmica,520,4,https://www.beecrowd.com.br/judge/pt/problems/view/1475
+1485,Roleta Turca,Desconhecido,321,8,https://www.beecrowd.com.br/judge/pt/problems/view/1485
+1487,Six Flags,"Knapsack, PD, BFS",1.750,4,https://www.beecrowd.com.br/judge/pt/problems/view/1487
+1493,Abastecimento de Água Disjunto,Desconhecido,242,7,https://www.beecrowd.com.br/judge/pt/problems/view/1493
+1494,Onze,PD,171,9,https://www.beecrowd.com.br/judge/pt/problems/view/1494
+1509,Contando Ambiguidades,Programação Dinâmica,58,10,https://www.beecrowd.com.br/judge/pt/problems/view/1509
+1510,O Passeio Turístico,-,18,5,https://www.beecrowd.com.br/judge/pt/problems/view/1510
+1513,Cavalo,"BFS, Caixeiro Viajante, PD",369,9,https://www.beecrowd.com.br/judge/pt/problems/view/1513
+1517,Maçãs,Programação Dinâmica,770,8,https://www.beecrowd.com.br/judge/pt/problems/view/1517
+1522,Jogo das Pilhas,Programação dinâmica,806,8,https://www.beecrowd.com.br/judge/pt/problems/view/1522
+1524,Fila do Bandejão,Algoritmo Guloso,911,4,https://www.beecrowd.com.br/judge/pt/problems/view/1524
+1543,Quadro Premiado,Programação Dinâmica,234,7,https://www.beecrowd.com.br/judge/pt/problems/view/1543
+1545,Cartões II,Programação Dinâmica,259,9,https://www.beecrowd.com.br/judge/pt/problems/view/1545
+1565,Ligue os Pontos,Programação dinâmica,43,10,https://www.beecrowd.com.br/judge/pt/problems/view/1565
+1579,Transporte de Painéis Solares,"Busca Binária, STL",539,5,https://www.beecrowd.com.br/judge/pt/problems/view/1579
+1590,Cuarenta e Dois,"Força bruta, Guloso",536,8,https://www.beecrowd.com.br/judge/pt/problems/view/1590
+1595,Humm.. Andar ou Correr.. Eis a Questão,-,761,6,https://www.beecrowd.com.br/judge/pt/problems/view/1595
+1596,Torneio de Yusuf II,-,1,5,https://www.beecrowd.com.br/judge/pt/problems/view/1596
+1597,Desmascarando o Empregado do Sultão,-,24,5,https://www.beecrowd.com.br/judge/pt/problems/view/1597
+1598,O Verdadeiro Valor dos Tapetes,-,17,5,https://www.beecrowd.com.br/judge/pt/problems/view/1598
+1599,Picos do Átlas,-,390,6,https://www.beecrowd.com.br/judge/pt/problems/view/1599
+1600,O Gato do Zelador do Armazém,-,75,9,https://www.beecrowd.com.br/judge/pt/problems/view/1600
+1601,Partição do Rebanho,-,41,10,https://www.beecrowd.com.br/judge/pt/problems/view/1601
+1602,Hiperprimos,-,767,8,https://www.beecrowd.com.br/judge/pt/problems/view/1602
+1603,Canais de Qanat,-,10,5,https://www.beecrowd.com.br/judge/pt/problems/view/1603
+1604,Pair-voting no Conselho de Gueliz,-,51,7,https://www.beecrowd.com.br/judge/pt/problems/view/1604
+1605,Montando Sua Própria Cáfila,-,20,5,https://www.beecrowd.com.br/judge/pt/problems/view/1605
+1606,As Dicas de Ali Babá,-,379,6,https://www.beecrowd.com.br/judge/pt/problems/view/1606
+1608,Bolos da Maria,-,1.118,1,https://www.beecrowd.com.br/judge/pt/problems/view/1608
+1611,Elevador Lotado,-,796,4,https://www.beecrowd.com.br/judge/pt/problems/view/1611
+1614,Ajude o Turista,-,155,7,https://www.beecrowd.com.br/judge/pt/problems/view/1614
+1616,Baile de Formatura,Programação Dinâmica,358,6,https://www.beecrowd.com.br/judge/pt/problems/view/1616
+1636,Permutações Antimonotônicas Cíclicas,Programação Dinâmica,167,6,https://www.beecrowd.com.br/judge/pt/problems/view/1636
+1637,Codificação Gamma de Elias,Algoritmo Guloso,36,4,https://www.beecrowd.com.br/judge/pt/problems/view/1637
+1642,Teclado Quebrado,Varredura com Contadores,404,6,https://www.beecrowd.com.br/judge/pt/problems/view/1642
+1643,Converter Quilômetros para Milhas,Algoritmos Gulosos,517,3,https://www.beecrowd.com.br/judge/pt/problems/view/1643
+1645,El Dorado,Programação Dinâmica,613,6,https://www.beecrowd.com.br/judge/pt/problems/view/1645
+1648,Ajude Bob,Programação Dinâmica,66,9,https://www.beecrowd.com.br/judge/pt/problems/view/1648
+1649,Ferramenta Irritante de Pintura,Guloso,192,4,https://www.beecrowd.com.br/judge/pt/problems/view/1649
+1654,Mercearia,Força Bruta,457,9,https://www.beecrowd.com.br/judge/pt/problems/view/1654
+1659,Chamadas Econômicas,Programação Dinâmica,21,5,https://www.beecrowd.com.br/judge/pt/problems/view/1659
+1661,Comércio de Vinhos na Gergóvia,Guloso,1.605,5,https://www.beecrowd.com.br/judge/pt/problems/view/1661
+1666,Qualquer Tolo Consegue,Programação Dinâmica,60,7,https://www.beecrowd.com.br/judge/pt/problems/view/1666
+1672,Em Perigo,Programação Dinâmica,348,6,https://www.beecrowd.com.br/judge/pt/problems/view/1672
+1681,Dobra,Programacao Dinamica,15,5,https://www.beecrowd.com.br/judge/pt/problems/view/1681
+1682,Código Genético,Backtracking,822,5,https://www.beecrowd.com.br/judge/pt/problems/view/1682
+1685,Praça de Daniel,-,110,9,https://www.beecrowd.com.br/judge/pt/problems/view/1685
+1687,Destrave o Celular,-,130,9,https://www.beecrowd.com.br/judge/pt/problems/view/1687
+1689,Radares,PD,479,7,https://www.beecrowd.com.br/judge/pt/problems/view/1689
+1690,Soma de Sobconjuntos,"PD, Soma de Sobconjuntos",380,7,https://www.beecrowd.com.br/judge/pt/problems/view/1690
+1700,Antenas,PD,217,10,https://www.beecrowd.com.br/judge/pt/problems/view/1700
+1707,Jogo com Números,PD,128,8,https://www.beecrowd.com.br/judge/pt/problems/view/1707
+1720,Sonho de Mondriaan,Programacao Dinamica,99,6,https://www.beecrowd.com.br/judge/pt/problems/view/1720
+1727,Copa Européia 2000,Backtracking,131,6,https://www.beecrowd.com.br/judge/pt/problems/view/1727
+1744,Pedras Pretas e Brancas,"Programacão Dinâmica, Guloso",359,7,https://www.beecrowd.com.br/judge/pt/problems/view/1744
+1767,Saco do Papai Noel,Mochila 0-1,1.696,4,https://www.beecrowd.com.br/judge/pt/problems/view/1767
+1775,André e os Mentos,-,294,6,https://www.beecrowd.com.br/judge/pt/problems/view/1775
+1777,Calçada da Fama,-,278,9,https://www.beecrowd.com.br/judge/pt/problems/view/1777
+1784,Jacutingas vs Jaburus,-,73,9,https://www.beecrowd.com.br/judge/pt/problems/view/1784
+1788,Brincando com Números,Programação Dinâmica,129,9,https://www.beecrowd.com.br/judge/pt/problems/view/1788
+1798,Cortando Canos,Programação Dinâmica,1.479,5,https://www.beecrowd.com.br/judge/pt/problems/view/1798
+1810,"Beverly Hills, Century City","Programação Dinâmica, Uncapacitated lot-sizing",46,9,https://www.beecrowd.com.br/judge/pt/problems/view/1810
+1822,Obras da China,-,37,2,https://www.beecrowd.com.br/judge/pt/problems/view/1822
+1833,Decoração Natalina,Distância de Levenshtein,170,8,https://www.beecrowd.com.br/judge/pt/problems/view/1833
+1838,A Pedra Filosofal,Programação Dinâmica,295,7,https://www.beecrowd.com.br/judge/pt/problems/view/1838
+1843,O Enigma do Príncipe,"Backtracking, Flood Fill",71,9,https://www.beecrowd.com.br/judge/pt/problems/view/1843
+1852,Lobos Stark,Casamento Estável,77,6,https://www.beecrowd.com.br/judge/pt/problems/view/1852
+1860,A Caminhada da Vergonha de Cersei,Busca Ternária,210,7,https://www.beecrowd.com.br/judge/pt/problems/view/1860
+1878,Torneios em Sequência,Busca completa e retrocesso,482,3,https://www.beecrowd.com.br/judge/pt/problems/view/1878
+1892,Calouro Vence Veterano?,Divisão e conquista,363,9,https://www.beecrowd.com.br/judge/pt/problems/view/1892
+1900,Sequências Nulas,Programação Dinâmica,321,7,https://www.beecrowd.com.br/judge/pt/problems/view/1900
+1912,Ajude Seu Madruga,Busca Binária,1.921,8,https://www.beecrowd.com.br/judge/pt/problems/view/1912
+1913,Ajude o Sr. Barriga,Programação Dinâmica,165,7,https://www.beecrowd.com.br/judge/pt/problems/view/1913
+1922,Diego e o Jogo do Martelo,Desconhecido,77,6,https://www.beecrowd.com.br/judge/pt/problems/view/1922
+1927,Tapioca e a Chuva de Trufas,Desconhecido,350,9,https://www.beecrowd.com.br/judge/pt/problems/view/1927
+1932,Bolsa de Valores,Programação Dinâmica,1.274,7,https://www.beecrowd.com.br/judge/pt/problems/view/1932
+1970,Primeiro Contato,Programação Dinâmica,303,6,https://www.beecrowd.com.br/judge/pt/problems/view/1970
+1976,Matrizes,Matrix chain,96,10,https://www.beecrowd.com.br/judge/pt/problems/view/1976
+1978,Câmeras,Guloso,46,9,https://www.beecrowd.com.br/judge/pt/problems/view/1978
+1996,Construção de Tendas,Desconhecido,8,5,https://www.beecrowd.com.br/judge/pt/problems/view/1996
+2024,Empilhando Presentes,Programação Dinâmica,111,8,https://www.beecrowd.com.br/judge/pt/problems/view/2024
+2026,Árvore de Natal,Mochila 0-1,1.052,5,https://www.beecrowd.com.br/judge/pt/problems/view/2026
+2027,Aposta com Noel,"Correção, Recursividade",695,5,https://www.beecrowd.com.br/judge/pt/problems/view/2027
+2036,Efeito Dominó,Programação Dinâmica,96,10,https://www.beecrowd.com.br/judge/pt/problems/view/2036
+2042,Fofão da Pérsia,Progração Dinâmica em DAG,69,10,https://www.beecrowd.com.br/judge/pt/problems/view/2042
+2050,Bar do Ramsey,Desconhecido,42,6,https://www.beecrowd.com.br/judge/pt/problems/view/2050
+2052,Mapas de Karnaugh II,"PD, Mapa",3,5,https://www.beecrowd.com.br/judge/pt/problems/view/2052
+2053,ET Phone Home,Desconhecido,10,5,https://www.beecrowd.com.br/judge/pt/problems/view/2053
+2072,Canhões de Anúbis,Desconhecido,82,9,https://www.beecrowd.com.br/judge/pt/problems/view/2072
+2080,Seqüências de Röntgen,Desconhecido,68,10,https://www.beecrowd.com.br/judge/pt/problems/view/2080
+2089,Lanchonete,Programação dinâmica,319,8,https://www.beecrowd.com.br/judge/pt/problems/view/2089
+2095,Guerra,Gulosos,1.113,4,https://www.beecrowd.com.br/judge/pt/problems/view/2095
+2099,Jogando Com Pedras,Teoria de Jogo - Programação Dinâmica,64,6,https://www.beecrowd.com.br/judge/pt/problems/view/2099
+2105,Monopólio,Desconhecido,1,5,https://www.beecrowd.com.br/judge/pt/problems/view/2105
+2106,Montagem,"Programação Dinâmica, Bitmask",250,6,https://www.beecrowd.com.br/judge/pt/problems/view/2106
+2109,Duelo de Espiões,Desconhecido,6,5,https://www.beecrowd.com.br/judge/pt/problems/view/2109
+2113,O Incidente de Sverdlovsk,Desconhecido,0,5,https://www.beecrowd.com.br/judge/pt/problems/view/2113
+2115,Produção em Ecaterimburgo,Guloso,830,6,https://www.beecrowd.com.br/judge/pt/problems/view/2115
+2119,Goão e Escadas,Desconhecido,33,10,https://www.beecrowd.com.br/judge/pt/problems/view/2119
+2124,Cardápio da Sra. Montagny!,Desconhecido,78,6,https://www.beecrowd.com.br/judge/pt/problems/view/2124
+2169,Ajude o Leonardo!,Programação Dinâmica (Knapsack problem),117,9,https://www.beecrowd.com.br/judge/pt/problems/view/2169
+2181,URI - Uireb Rhom uin Iavas,Algoritmos Gulosos,75,9,https://www.beecrowd.com.br/judge/pt/problems/view/2181
+2183,Batalha Final,Desconhecido,69,10,https://www.beecrowd.com.br/judge/pt/problems/view/2183
+2220,Ajudando Gust-Avô,Busca Binária,248,8,https://www.beecrowd.com.br/judge/pt/problems/view/2220
+2224,Torneio de Pomekon,"DP, Bitmask",169,5,https://www.beecrowd.com.br/judge/pt/problems/view/2224
+2226,Fabrica de Balões,Desconhecido,48,10,https://www.beecrowd.com.br/judge/pt/problems/view/2226
+2236,Batata Quente,Desconhecido,223,10,https://www.beecrowd.com.br/judge/pt/problems/view/2236
+2243,Isósceles,PD,1.379,4,https://www.beecrowd.com.br/judge/pt/problems/view/2243
+2299,Pedido de Desculpas,Mochila,455,5,https://www.beecrowd.com.br/judge/pt/problems/view/2299
+2360,Centrais de Controle,Desconhecido,27,10,https://www.beecrowd.com.br/judge/pt/problems/view/2360
+2361,Entradas e Saídas,Desconhecido,283,8,https://www.beecrowd.com.br/judge/pt/problems/view/2361
+2363,Brincando com Transformações,Desconhecido,11,5,https://www.beecrowd.com.br/judge/pt/problems/view/2363
+2364,Henrique,Desconhecido,2,5,https://www.beecrowd.com.br/judge/pt/problems/view/2364
+2446,Troco,Programação Dinâmica,1.306,8,https://www.beecrowd.com.br/judge/pt/problems/view/2446
+2475,Confecção de Presentes,Programação Dinâmica,90,10,https://www.beecrowd.com.br/judge/pt/problems/view/2475
+2480,Luzes Vermelhas,Sort,37,9,https://www.beecrowd.com.br/judge/pt/problems/view/2480
+2481,É Uma Cilada Bino,Programação Dinâmica,102,10,https://www.beecrowd.com.br/judge/pt/problems/view/2481
+2491,Habay e Robfilho – Os Fujões,Desconhecido,23,5,https://www.beecrowd.com.br/judge/pt/problems/view/2491
+2498,Ajude Vânia,PD,581,4,https://www.beecrowd.com.br/judge/pt/problems/view/2498
+2501,Fatores Permitidos,PD,166,10,https://www.beecrowd.com.br/judge/pt/problems/view/2501
+2524,Balas de Morango,Programação Dinâmica,190,7,https://www.beecrowd.com.br/judge/pt/problems/view/2524
+2527,Cheddar,Programação Dinâmica,123,10,https://www.beecrowd.com.br/judge/pt/problems/view/2527
+2532,Demogorgon,Programação Dinâmica,493,6,https://www.beecrowd.com.br/judge/pt/problems/view/2532
+2553,Passeio em FdI,Programação Dinâmica,211,7,https://www.beecrowd.com.br/judge/pt/problems/view/2553
+2555,Quiz Universitário,"Esperança, Programação Dinâmica",35,8,https://www.beecrowd.com.br/judge/pt/problems/view/2555
+2563,Transfira Para o Professor,Programação Dinâmica,335,6,https://www.beecrowd.com.br/judge/pt/problems/view/2563
+2599,Contando Radares,Programação Dinâmica,204,7,https://www.beecrowd.com.br/judge/pt/problems/view/2599
+2664,Ginástica,-,952,4,https://www.beecrowd.com.br/judge/pt/problems/view/2664
+2677,Par ou Ímpar,-,350,7,https://www.beecrowd.com.br/judge/pt/problems/view/2677
+2699,Enigma,-,290,6,https://www.beecrowd.com.br/judge/pt/problems/view/2699
+2713,O Mago é Implacável!,-,131,6,https://www.beecrowd.com.br/judge/pt/problems/view/2713
+2716,Dividindo os Trabalhos II,-,367,9,https://www.beecrowd.com.br/judge/pt/problems/view/2716
+2723,Equilibrando Presentes,Programação Dinâmica,288,7,https://www.beecrowd.com.br/judge/pt/problems/view/2723
+2778,Matriz do Dabriel,Programação Dinâmica,110,10,https://www.beecrowd.com.br/judge/pt/problems/view/2778
+2799,Coral Nortista,Desconhecido,8,5,https://www.beecrowd.com.br/judge/pt/problems/view/2799
+2811,Sibi-Xor,Desconhecido,37,10,https://www.beecrowd.com.br/judge/pt/problems/view/2811
+2818,Jogo Divertido,Programação Dinâmica,45,9,https://www.beecrowd.com.br/judge/pt/problems/view/2818
+2841,Dabriel e Sua Festa,DFS,131,8,https://www.beecrowd.com.br/judge/pt/problems/view/2841
+2842,Dabriel e Suas Strings,Programação Dinâmica,339,6,https://www.beecrowd.com.br/judge/pt/problems/view/2842
+2856,Viagem do Pão de Queijo,Paradigmas,106,7,https://www.beecrowd.com.br/judge/pt/problems/view/2856
+2877,Bolinhas de Gude,Desconhecido,123,9,https://www.beecrowd.com.br/judge/pt/problems/view/2877
+2881,Festival,Desconhecido,247,8,https://www.beecrowd.com.br/judge/pt/problems/view/2881
+2882,Gasolina,Desconhecido,118,8,https://www.beecrowd.com.br/judge/pt/problems/view/2882
+2888,Modificando SAT,Desconhecido,25,5,https://www.beecrowd.com.br/judge/pt/problems/view/2888
+2895,Velhas Balanças,Programação Dinâmica,99,9,https://www.beecrowd.com.br/judge/pt/problems/view/2895
+2917,Barbante,Programação Dinâmica,74,8,https://www.beecrowd.com.br/judge/pt/problems/view/2917
+2918,Dígitos Inteligentes,Programação Dinâmica,61,9,https://www.beecrowd.com.br/judge/pt/problems/view/2918
+2919,Melhor Ordem,Maior subsequência crescente,223,7,https://www.beecrowd.com.br/judge/pt/problems/view/2919
+2920,Número Pequeno,Programação Dinâmica,58,9,https://www.beecrowd.com.br/judge/pt/problems/view/2920
+2921,Quadros Alienígenas,Programação Dinâmica,50,8,https://www.beecrowd.com.br/judge/pt/problems/view/2921
+2932,Renas do Papai Noel,Desconhecido,41,10,https://www.beecrowd.com.br/judge/pt/problems/view/2932
+2934,Noel e Suas Renas,Programação Dinâmica,51,9,https://www.beecrowd.com.br/judge/pt/problems/view/2934
+2967,Florestas em Risco,Desconhecido,69,10,https://www.beecrowd.com.br/judge/pt/problems/view/2967
+2970,Keep Calm e Venda Balões,Desconhecido,38,7,https://www.beecrowd.com.br/judge/pt/problems/view/2970
+2973,Maratona Brasileira de Comedores de Pipoca,Desconhecido,544,9,https://www.beecrowd.com.br/judge/pt/problems/view/2973
+2976,Triângulos,-,5,5,https://www.beecrowd.com.br/judge/pt/problems/view/2976
+3051,Soma,Desconhecido,159,9,https://www.beecrowd.com.br/judge/pt/problems/view/3051
+3073,Vetores,Desconhecido,0,5,https://www.beecrowd.com.br/judge/pt/problems/view/3073
+3086,O Cavaleiro Jedi Guilherme,Desconhecido,26,5,https://www.beecrowd.com.br/judge/pt/problems/view/3086
+3095,Pudim dos Guerreiros,Desconhecido,30,5,https://www.beecrowd.com.br/judge/pt/problems/view/3095
+3098,Plíndromo,Desconhecido,72,5,https://www.beecrowd.com.br/judge/pt/problems/view/3098
+3107,Pulo do Sapo,Desconhecido,95,5,https://www.beecrowd.com.br/judge/pt/problems/view/3107
+3114,Parkour,Desconhecido,38,5,https://www.beecrowd.com.br/judge/pt/problems/view/3114
+3116,Seguidores Impossíveis,Desconhecido,5,5,https://www.beecrowd.com.br/judge/pt/problems/view/3116
+3151,O Iogurte Divino,Desconhecido,27,3,https://www.beecrowd.com.br/judge/pt/problems/view/3151
+3153,Fake News,Desconhecido,52,7,https://www.beecrowd.com.br/judge/pt/problems/view/3153
+3178,Avenida de Álamos,PD,3,5,https://www.beecrowd.com.br/judge/pt/problems/view/3178
+3191,Copying DNA,Desconhecido,2,5,https://www.beecrowd.com.br/judge/pt/problems/view/3191
+3192,Circle of Debt,Desconhecido,4,5,https://www.beecrowd.com.br/judge/pt/problems/view/3192
+3195,Shopaholic,Desconhecido,26,5,https://www.beecrowd.com.br/judge/pt/problems/view/3195
+3196,Moogle,Desconhecido,3,5,https://www.beecrowd.com.br/judge/pt/problems/view/3196
+3197,Shoot-out,Desconhecido,5,3,https://www.beecrowd.com.br/judge/pt/problems/view/3197
+3251,ls,"recursive, memoization, DP",13,5,https://www.beecrowd.com.br/judge/pt/problems/view/3251
+3274,Excursão,Desconhecido,11,5,https://www.beecrowd.com.br/judge/pt/problems/view/3274
+3277,Trabalho na Estrada,Desconhecido,6,5,https://www.beecrowd.com.br/judge/pt/problems/view/3277
+3349,Armadura,Programação Dinâmica,13,3,https://www.beecrowd.com.br/judge/pt/problems/view/3349
